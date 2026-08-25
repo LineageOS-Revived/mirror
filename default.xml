@@ -16,6 +16,8 @@
   <project name="LineageOS-Revived/android_build" />
   <project name="LineageOS-Revived/android_build_soong" />
   <project name="LineageOS-Revived/android_device_lineage_sepolicy" />
+  <project name="LineageOS-Revived/android_device_motorola_msm8953-common" />
+  <project name="LineageOS-Revived/android_device_motorola_sanders" />
   <project name="LineageOS-Revived/android_external_aac" />
   <project name="LineageOS-Revived/android_external_chromium-libpac" />
   <project name="LineageOS-Revived/android_external_cldr" />
@@ -59,6 +61,7 @@
   <project name="LineageOS-Revived/android_hardware_qcom_media" />
   <project name="LineageOS-Revived/android_hardware_ril" />
   <project name="LineageOS-Revived/android_kernel_configs" />
+  <project name="LineageOS-Revived/android_kernel_motorola_msm8953" />
   <project name="LineageOS-Revived/android_libcore" />
   <project name="LineageOS-Revived/android_lineage-sdk" />
   <project name="LineageOS-Revived/android_packages_apps_Bluetooth" />
