@@ -15,6 +15,7 @@
   <project name="LineageOS-Revived/android_bootable_recovery" />
   <project name="LineageOS-Revived/android_build" />
   <project name="LineageOS-Revived/android_build_soong" />
+  <project name="LineageOS-Revived/android_device_lge_hammerhead" />
   <project name="LineageOS-Revived/android_device_lineage_sepolicy" />
   <project name="LineageOS-Revived/android_device_motorola_addison" />
   <project name="LineageOS-Revived/android_device_motorola_albus" />
@@ -42,6 +43,7 @@
   <project name="LineageOS-Revived/android_hardware_qcom_display" />
   <project name="LineageOS-Revived/android_hardware_ril" />
   <project name="LineageOS-Revived/android_kernel_configs" />
+  <project name="LineageOS-Revived/android_kernel_lge_hammerhead" />
   <project name="LineageOS-Revived/android_kernel_motorola_msm8953" />
   <project name="LineageOS-Revived/android_kernel_motorola_msm8996" />
   <project name="LineageOS-Revived/android_libcore" />
@@ -93,6 +95,7 @@
   <project name="LineageOS-Revived/lineage_wiki" />
   <project name="LineageOS-Revived/mirror" />
   <project name="LineageOS-Revived/ota_config" />
+  <project name="LineageOS-Revived/proprietary_vendor_lge_hammerhead" />
   <project name="LineageOS-Revived/proprietary_vendor_motorola_addison" />
   <project name="LineageOS-Revived/proprietary_vendor_motorola_albus" />
   <project name="LineageOS-Revived/proprietary_vendor_motorola_ali" />
